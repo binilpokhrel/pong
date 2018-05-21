@@ -1,2 +1,4 @@
 # pong
-Classic arcade game built as an exercise to refresh Java Skills
+Classic 2-player arcade game built with Java Swing.
+
+Built as an exercise to refresh Java Skills
